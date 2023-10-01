@@ -49,26 +49,27 @@ service docker start
 - Tampilan Aplikasi Web
   Cara pemakaian **LinkStack** sangat mudah dikarenakan aplikasi ini telah menyediakan interface yang mudah dimengerti.
   - Pertama, kita perlu login terlebih dahulu.
-    ![alt text]()
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20165456.png)
   - Jika tidak memiliki akun, maka perlu Sign Up terlebih dahulu.
-    ![alt text]()
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20165624.png)
   
   **ADMIN**
   - Setelah login, kita akan masuk ke halaman Dashboard. Disini kita dapat melihat laporan site statistics, registrations, dan active users
-    ![alt text]()
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20172344.png)
   - Pada menu Add Link, kita dapat menambahkan link dan custom nama linknya sesuai dengan keinginan. Setelah itu, dapat menambahkan link lainnya dengan klik save and add more.
-    ![alt text]()
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20172509.png)
+  - Pada menu Admin - Manage User, admin dapat menambah user baru, atau menghapus dan mengedit user.
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20185939.png)
   - Kemudian, pada halaman berikut ini, kita dapat melihat (preview) link yang sudah dibuat.
-    ![alt text]()
-
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20172701.png)
 
   **USER**
   - Setelah login, kita akan masuk ke halaman Dashboard. Disini kita dapat melihat laporan total links dan link click-Nya.
-    ![alt text]()
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20175743.png)
   - Pada menu Add Link, kita dapat menambahkan link dan custom nama linknya sesuai dengan keinginan. Setelah itu, dapat menambahkan link lainnya dengan klik save and add more.
-    ![alt text]()
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20175537.png)
   - Kemudian, pada halaman berikut ini, kita dapat melihat (preview) link yang sudah dibuat.
-    ![alt text]()
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20175850.png)
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
