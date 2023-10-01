@@ -36,7 +36,7 @@ service docker status
 service docker start
 ```
 
-## Cara Pemakaian
+# Cara Pemakaian
 [`^ kembali ke atas ^`](#)
 - Tampilan Aplikasi Web
     - Tampilan Utama Aplikasi
@@ -52,7 +52,7 @@ service docker start
     - ...
         ....
 
-## Pembahasan
+# Pembahasan
 [`^ kembali ke atas ^`](#)
 
 **LinkStack** adalah aplikasi yang menyediakan opsi self-hosted yang sederhana dan tidak memerlukan pengetahuan teknis yang mendalam, aplikasi ini juga menawarkan berbagai kelebihan yaitu sebagai berikut.
@@ -73,7 +73,7 @@ Jika dibandingkan dengan sejenisnya seperti **Linktree**, **LinkStack** ini memi
 Aplikasi sejenis lainnya adalah **Linked List (ipb.link)**.  Perbandingannya adalah sebagai berikut.
 - POKOKNYA JLEK
 
-## Referensi
+# Referensi
 - [Azure Cloud](https://azure.microsoft.com/id-id/)
 - [Docker](https://www.docker.com/)
 - [Linktree](https://linktr.ee/)
