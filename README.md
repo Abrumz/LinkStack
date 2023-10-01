@@ -50,7 +50,7 @@ service docker start
   Cara pemakaian **LinkStack** sangat mudah dikarenakan aplikasi ini telah menyediakan interface yang mudah dimengerti.
   - Pertama, kita perlu login terlebih dahulu.
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20165456.png)
-  - Jika tidak memiliki akun, maka perlu Sign Up terlebih dahulu.
+  - Jika belum memiliki akun, maka kita perlu melakukan pendaftaran (Sign Up) terlebih dahulu.
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20165624.png)
   
   **ADMIN**
@@ -58,7 +58,7 @@ service docker start
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20172344.png)
   - Pada menu Add Link, kita dapat menambahkan link dan custom nama linknya sesuai dengan keinginan. Setelah itu, dapat menambahkan link lainnya dengan klik save and add more.
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20172509.png)
-  - Pada menu Admin - Manage User, admin dapat menambah user baru, atau menghapus dan mengedit user.
+  - Pada menu Admin - Manage User, admin dapat menambahkan pengguna baru, serta menghapus atau mengedit pengguna yang sudah ada.
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20185939.png)
   - Kemudian, pada halaman berikut ini, kita dapat melihat (preview) link yang sudah dibuat.
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20172701.png)
