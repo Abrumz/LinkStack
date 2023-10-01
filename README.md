@@ -75,9 +75,9 @@ service docker start
 [`^ kembali ke atas ^`](#)
 
 **LinkStack** adalah aplikasi yang menyediakan opsi self-hosted yang sederhana dan tidak memerlukan pengetahuan teknis yang mendalam, aplikasi ini juga menawarkan berbagai kelebihan yaitu sebagai berikut.
-- **LinkStack** memberikan solusi yang efisien untuk mengelola dan berbagi tautan _online_, membantu pengguna mengatasi batasan hanya dapat menambahkan satu tautan di _platform_ media sosial.
+- **LinkStack** memberikan solusi yang efisien untuk mengelola dan berbagi tautan _online_, membantu pengguna mengatasi batasan hanya dapat menambahkan satu tautan di platform media sosial.
 - LinkStack menawarkan instansi gratis bagi pengguna yang tidak memiliki keahlian teknis untuk self-hosting.
-- _User_ dapat dengan mudah membuat halaman profil _custom_ mereka sendiri di **LinkStack** secara gratis.
+- User dapat dengan mudah membuat halaman profil custom mereka sendiri di **LinkStack** secara gratis.
 
 Namun, **LinkStack** juga memiliki kekurangan, yaitu sebagai berikut.
 - Meng-host tautan sendiri di server web pribadi atau penyedia hosting web mungkin memerlukan pengetahuan teknis yang lebih, dan proses pengaturan awal bisa lebih rumit.
