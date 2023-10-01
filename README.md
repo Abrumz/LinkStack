@@ -76,10 +76,10 @@ service docker start
 
 **LinkStack** adalah sebuah aplikasi yang menyediakan opsi self-hosting yang mudah digunakan tanpa memerlukan pengetahuan teknis yang mendalam. Aplikasi ini juga memiliki berbagai kelebihan, seperti berikut:
 - **Manajemen Tautan yang Efisien:** LinkStack memberikan solusi yang efisien untuk mengelola dan berbagi tautan secara online, memungkinkan pengguna mengatasi batasan hanya dapat menambahkan satu tautan di platform media sosial.
-- **Instansi Gratis untuk Pengguna Pemula:** LinkStack menawarkan instansi gratis bagi pengguna yang tidak memiliki keahlian teknis untuk melakukan self-hosting.
+- **Instansi Gratis untuk Pengguna Awam:** LinkStack menawarkan instansi gratis bagi pengguna yang tidak memiliki keahlian teknis untuk melakukan self-hosting.
 - **Kustomisasi Halaman Profil:** Pengguna dapat dengan mudah membuat halaman profil kustom mereka sendiri di LinkStack tanpa biaya tambahan.
 
-Namun, **LinkStack** juga memiliki beberapa kekurangan, seperti berikut:
+Namun, LinkStack juga memiliki beberapa kekurangan, seperti berikut:
 - **Kompleksitas Self-Hosting:** Meng-host tautan sendiri di server web pribadi atau penyedia hosting web mungkin memerlukan pengetahuan teknis yang lebih, dan proses pengaturan awal bisa lebih rumit.
 - **Biaya Tambahan untuk Self-Hosting:** Self-hosting dapat menghasilkan biaya tambahan untuk hosting web, yang mungkin menjadi kendala bagi beberapa pengguna.
 - **Keterbatasan Integrasi:** LinkStack mungkin memiliki integrasi yang lebih terbatas dengan beberapa platform media sosial atau alat dibandingkan dengan Linktree.
@@ -88,7 +88,7 @@ Dalam perbandingan dengan Linktree, LinkStack memiliki keunggulan dan kelemahan 
 - **Linktree** dikenal dengan kesederhanaan penggunaannya, sehingga cocok bagi pengguna yang ingin membuat halaman profil dengan cepat tanpa kerumitan. 
 - **Linktree** memiliki integrasi yang lebih mudah dengan beberapa platform media sosial dan alat lainnya, seperti Instagram, Twitter, dan Facebook, dibandingkan dengan LinkStack.
 - **LinkStack** menonjol dalam hal fleksibilitas karena memungkinkan pengguna untuk meng-host tautan mereka sendiri di server web pribadi atau penyedia hosting web, memberi pengguna lebih banyak kontrol. Sebaliknya, Linktree memiliki keterbatasan dalam hal penyesuaian dan desain halaman profil.
-- Beberapa fitur tambahan **Linktree**, seperti analitik, penjadwalan tautan, dan opsi desain, hanya tersedia dalam paket berbayar.
+- Beberapa fitur tambahan Linktree, seperti analitik, penjadwalan tautan, dan opsi desain, hanya tersedia dalam paket berbayar.
 
 Aplikasi sejenis lainnya adalah **Linked List (ipb.link)**.  Perbandingannya adalah sebagai berikut.
 - POKOKNYA JLEK
