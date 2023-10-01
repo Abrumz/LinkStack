@@ -15,7 +15,7 @@
 
 LinkStack mirip dengan Linktree dan menyediakan fitur dan pilihan yang sama seperti platform berbagi tautan komersial lainnya. Yang terpenting, LinkStack berkomitmen untuk tidak pernah menjual data pengguna dan mengutamakan privasi serta otonomi pengguna dalam mengelola dan berbagi tautan online.
 
-## Instalasi
+# Instalasi
 [`^ kembali ke atas ^`](#)
 
 ### Kebutuhan Sistem :
