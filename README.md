@@ -56,9 +56,9 @@ service docker start
 [`^ kembali ke atas ^`](#)
 
 **LinkStack** adalah aplikasi yang menyediakan opsi self-hosted yang sederhana dan tidak memerlukan pengetahuan teknis yang mendalam, aplikasi ini juga menawarkan berbagai kelebihan yaitu sebagai berikut.
-- LinkStack memberikan solusi yang efisien untuk mengelola dan berbagi tautan _online_, membantu pengguna mengatasi batasan hanya dapat menambahkan satu tautan di _platform_ media sosial.
+- **LinkStack** memberikan solusi yang efisien untuk mengelola dan berbagi tautan _online_, membantu pengguna mengatasi batasan hanya dapat menambahkan satu tautan di _platform_ media sosial.
 - LinkStack menawarkan instansi gratis bagi pengguna yang tidak memiliki keahlian teknis untuk self-hosting.
-- _User_ dapat dengan mudah membuat halaman profil _custom_ mereka sendiri di LinkStack.
+- _User_ dapat dengan mudah membuat halaman profil _custom_ mereka sendiri di **LinkStack** secara gratis.
 
 Namun, **LinkStack** juga memiliki kekurangan, yaitu sebagai berikut.
 - .........................
@@ -66,10 +66,12 @@ Namun, **LinkStack** juga memiliki kekurangan, yaitu sebagai berikut.
 - .........................
 
 Jika dibandingkan dengan sejenisnya seperti **Linktree**, **LinkStack** ini memiliki beberapa keunggulan dan kelemahan. Perbandingannya adalah sebagai berikut.
-- **Linktree** memiliki integrasi yang lebih mudah dengan beberapa platform media sosial dan alat lainnya, sehingga membuatnya lebih efisien.
 - **Linktree** dikenal karena kesederhanaan penggunaannya. Pengguna dapat dengan cepat membuat halaman profil dengan menambahkan tautan mereka. Dalam hal ini, jika dibandingkan dengan **LinkStack**, **Linktree** adalah pilihan yang lebih mudah.
 - **LinkStack** menonjol dalam hal fleksibilitas karena memungkinkan pengguna untuk meng-host tautan mereka sendiri di server web pribadi atau penyedia hosting web. Sedangkan, **Linktree** memiliki keterbatasan dalam hal penyesuaian dan desain halaman profil.
 - **LinkStack** memungkinkan pengguna untuk membuat halaman profil custom mereka sendiri. Sedangkan, Beberapa fitur **Linktree**, seperti analitik, custom theme hanya tersedia dalam paket berbayar.
+
+Aplikasi sejenis lainnya adalah **Linked List (ipb.link)**.  Perbandingannya adalah sebagai berikut.
+- POKOKNYA JLEK
 
 ## Referensi
 - [Azure Cloud](https://azure.microsoft.com/id-id/)
