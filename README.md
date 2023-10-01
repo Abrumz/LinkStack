@@ -79,3 +79,97 @@ Aplikasi sejenis lainnya adalah **Linked List (ipb.link)**.  Perbandingannya ada
 - [Linktree](https://linktr.ee/)
 
 [`^ kembali ke atas ^`](#)
+
+
+
+
+
+
+
+
+
+# Instalasi
+[`^ kembali ke atas ^`](#)
+
+### Kebutuhan Sistem :
+- Sistem Operasi: Windows, Unix, dan lainnya.
+- RAM: 64Mb atau lebih tinggi
+- PHP 8.x.x.
+- SQLite
+
+### Proses Instalasi :
+#### Docker
+Proses instalasi menggunakan Docker hanyalah salah satu cara, banyak cara lainnya yang bisa disesuaikan dengan preferensi masing-masing.
+
+1. Pasang [Docker](https://www.docker.com/) dan [Docker Compose](https://docs.docker.com/compose/)
+2. Cek apakah Docker sudah aktif atau belum (melalui terminal)
+```
+service docker status
+```
+- Jika belum aktif (inactive) maka diaktifkan terlebih dahulu
+```
+service docker start
+```
+
+# Konfigurasi
+
+# Maintenance
+
+# Otomatisasi
+
+# Cara Pemakaian
+[`^ kembali ke atas ^`](#)
+- Tampilan Aplikasi Web
+  Cara pemakaian **LinkStack** sangat mudah dikarenakan aplikasi ini telah menyediakan interface yang mudah dimengerti.
+  - Pertama, kita perlu login terlebih dahulu.
+    ![alt text]()
+  - Jika tidak memiliki akun, maka perlu Sign Up terlebih dahulu.
+    ![alt text]()
+  
+  **ADMIN**
+  - Setelah login, kita akan masuk ke halaman Dashboard. Disini kita dapat melihat laporan site statistics, registrations, dan active users
+    ![alt text]()
+  - Pada menu Add Link, kita dapat menambahkan link dan custom nama linknya sesuai dengan keinginan. Setelah itu, dapat menambahkan link lainnya dengan klik save and add more.
+    ![alt text]()
+  - Kemudian, pada halaman berikut ini, kita dapat melihat (preview) link yang sudah dibuat.
+    ![alt text]()
+
+
+  **USER**
+  - Setelah login, kita akan masuk ke halaman Dashboard. Disini kita dapat melihat laporan total links dan link click-Nya.
+    ![alt text]()
+  - Pada menu Add Link, kita dapat menambahkan link dan custom nama linknya sesuai dengan keinginan. Setelah itu, dapat menambahkan link lainnya dengan klik save and add more.
+    ![alt text]()
+  - Kemudian, pada halaman berikut ini, kita dapat melihat (preview) link yang sudah dibuat.
+    ![alt text]()
+
+# Pembahasan
+[`^ kembali ke atas ^`](#)
+
+**LinkStack** adalah aplikasi yang menyediakan opsi self-hosted yang sederhana dan tidak memerlukan pengetahuan teknis yang mendalam, aplikasi ini juga menawarkan berbagai kelebihan yaitu sebagai berikut.
+- **LinkStack** memberikan solusi yang efisien untuk mengelola dan berbagi tautan _online_, membantu pengguna mengatasi batasan hanya dapat menambahkan satu tautan di _platform_ media sosial.
+- LinkStack menawarkan instansi gratis bagi pengguna yang tidak memiliki keahlian teknis untuk self-hosting.
+- _User_ dapat dengan mudah membuat halaman profil _custom_ mereka sendiri di **LinkStack** secara gratis.
+
+Namun, **LinkStack** juga memiliki kekurangan, yaitu sebagai berikut.
+- .........................
+- .........................
+- .........................
+
+Jika dibandingkan dengan sejenisnya seperti **Linktree**, **LinkStack** ini memiliki beberapa keunggulan dan kelemahan. Perbandingannya adalah sebagai berikut.
+- **Linktree** dikenal karena kesederhanaan penggunaannya. Pengguna dapat dengan cepat membuat halaman profil dengan menambahkan tautan mereka. Dalam hal ini, jika dibandingkan dengan **LinkStack**, **Linktree** adalah pilihan yang lebih mudah.
+- **Linktree** memiliki integrasi yang lebih mudah dengan beberapa platform media sosial dan alat lainnya, seperti Instagram, Twitter, dan Facebook.
+- **LinkStack** menonjol dalam hal fleksibilitas karena memungkinkan pengguna untuk meng-host tautan mereka sendiri di server web pribadi atau penyedia hosting web. Sedangkan, **Linktree** memiliki keterbatasan dalam hal penyesuaian dan desain halaman profil.
+- **LinkStack** memungkinkan pengguna untuk membuat halaman profil custom mereka sendiri. Sedangkan, Beberapa fitur **Linktree**, seperti analitik, custom theme hanya tersedia dalam paket berbayar.
+
+Aplikasi sejenis lainnya adalah **Linked List (ipb.link)**.  Perbandingannya adalah sebagai berikut.
+- POKOKNYA JLEK
+
+# Referensi
+- [Azure Cloud](https://azure.microsoft.com/id-id/)
+- [Docker](https://www.docker.com/)
+- [Docker Compose](https://docs.docker.com/compose/)
+- [Linktree](https://linktr.ee/)
+- [Linked List (ipb.link)](https://ipb.link/)
+
+[`^ kembali ke atas ^`](#)
