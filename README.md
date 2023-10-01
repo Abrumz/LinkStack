@@ -79,15 +79,15 @@ service docker start
 - _User_ dapat dengan mudah membuat halaman profil _custom_ mereka sendiri di **LinkStack** secara gratis.
 
 Namun, **LinkStack** juga memiliki kekurangan, yaitu sebagai berikut.
-- .........................
-- .........................
-- .........................
+- Meng-host tautan sendiri di server web pribadi atau penyedia hosting web mungkin memerlukan pengetahuan teknis yang lebih, dan proses pengaturan awal bisa lebih rumit.
+- Meng-host tautan sendiri dapat memerlukan biaya tambahan untuk hosting web, yang mungkin menjadi kendala bagi beberapa pengguna.
+- **LinkStack** mungkin memiliki integrasi yang lebih terbatas dengan beberapa platform media sosial atau alat dibandingkan dengan **Linktree**.
 
 Jika dibandingkan dengan sejenisnya seperti **Linktree**, **LinkStack** ini memiliki beberapa keunggulan dan kelemahan. Perbandingannya adalah sebagai berikut.
 - **Linktree** dikenal karena kesederhanaan penggunaannya. Pengguna dapat dengan cepat membuat halaman profil dengan menambahkan tautan mereka. Dalam hal ini, jika dibandingkan dengan **LinkStack**, **Linktree** adalah pilihan yang lebih mudah.
-- **Linktree** memiliki integrasi yang lebih mudah dengan beberapa platform media sosial dan alat lainnya, seperti Instagram, Twitter, dan Facebook.
+- **Linktree** memiliki integrasi yang lebih mudah dengan beberapa platform media sosial dan alat lainnya, seperti Instagram, Twitter, dan Facebook dibandingkan **LinkStack**.
 - **LinkStack** menonjol dalam hal fleksibilitas karena memungkinkan pengguna untuk meng-host tautan mereka sendiri di server web pribadi atau penyedia hosting web. Sedangkan, **Linktree** memiliki keterbatasan dalam hal penyesuaian dan desain halaman profil.
-- **LinkStack** memungkinkan pengguna untuk membuat halaman profil custom mereka sendiri. Sedangkan, Beberapa fitur **Linktree**, seperti analitik, custom theme hanya tersedia dalam paket berbayar.
+- **LinkStack** memungkinkan pengguna untuk membuat halaman profil custom mereka sendiri. Sedangkan, Beberapa fitur **Linktree**, seperti analitik, penjadwalan tautan, dan opsi desain tambahan hanya tersedia dalam paket berbayar.
 
 Aplikasi sejenis lainnya adalah **Linked List (ipb.link)**.  Perbandingannya adalah sebagai berikut.
 - POKOKNYA JLEK
