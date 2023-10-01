@@ -37,8 +37,3 @@ service docker status
 ```
 service docker start
 ```
-##### Maintenance
-[`^ kembali ke atas ^`](#)
-
-###### Docker
-....
