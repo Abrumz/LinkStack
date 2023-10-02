@@ -154,7 +154,7 @@ volumes:
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20165624.png)
   
   **ADMIN**
-  - Setelah login, admin akan masuk ke halaman Dashboard. Disini admin dapat melihat laporan site statistics, registrations, dan active admin
+  - Setelah login, admin akan masuk ke halaman Dashboard. Disini admin dapat melihat laporan site statistics, registrations, dan active users
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20172344.png)
   - Pada menu Add Link, admin dapat menambahkan link dan custom nama linknya sesuai dengan keinginan. Setelah itu, dapat menambahkan link lainnya dengan klik save and add more. Pada menu ini terdapat Select Block dimana jenis link dapat dipilih sesuai dengan kebutuhan. Bahkan selain link, admin juga dapat menambahkan Vcard.
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20172509.png)
