@@ -146,6 +146,7 @@ volumes:
 [`^ kembali ke atas ^`](#)
 
 - Tampilan Aplikasi Web
+  
   Cara pemakaian **LinkStack** sangat mudah dikarenakan aplikasi ini telah menyediakan interface yang mudah dimengerti.
   - Pertama, user perlu login terlebih dahulu.
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20165456.png)
@@ -179,19 +180,19 @@ volumes:
 
   **USER**
   - Setelah login, user akan masuk ke halaman Dashboard. Disini user dapat melihat laporan total links dan link click-Nya.
-    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Dashboard User.png)
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Dashboard%20User.png)
   - Pada menu Add Link, user dapat menambahkan link dan custom nama linknya sesuai dengan keinginan. Setelah itu, dapat menambahkan link lainnya dengan klik save and add more. Pada menu ini terdapat Select Block dimana jenis link dapat dipilih sesuai dengan kebutuhan. Bahkan selain link, user juga dapat menambahkan Vcard.
-    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Select Block (add link user).png)
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Select%20Block%20(add%20link%20user).png)
   - Pada menu Links, user dapat melihat seluruh link yang sudah dibuat
-    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Kumpulan Link yang sudah dibuat.png)
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Kumpulan%20Link%20yang%20sudah%20dibuat.png)
   - Pada menu Links juga, user dapat menambahkan Page Icons untuk berintegrasi ke media sosial
-    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Page Icons (medsos).png)
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Page%20Icons%20(medsos).png)
   - Pada menu Appearance, user dapat mengatur halaman profile seperti profile picture, display name, dan lain-lain.
-    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Appearance User.png)
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Appearance%20User.png)
   - Pada menu Themes, user dapat mengubah atau mengcustom tema sendiri untuk halaman profile.
-    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Themes User.png)
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Themes%20User.png)
   - Kemudian, user juga dapat melihat preview kumpulan link yang sudah dibuat.
-    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Preview User.png)
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Preview%20User.png)
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
