@@ -11,9 +11,9 @@
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 # Sekilas Tentang
-[LinkStack](https://github.com/LinkStackOrg/LinkStack) adalah aplikasi yang bertujuan memberikan solusi manajemen dan berbagi tautan online yang gratis dan berfokus pada privasi. LinkStack memungkinkan pengguna untuk memiliki kontrol penuh atas tautan mereka tanpa harus menjual data pribadi kepada pihak ketiga.
+[LinkStack](https://github.com/LinkStackOrg/LinkStack) adalah aplikasi yang bertujuan memberikan solusi manajemen dan berbagi link online yang gratis dan berfokus pada privasi. LinkStack memungkinkan pengguna untuk memiliki kontrol penuh atas link mereka tanpa harus menjual data pribadi kepada pihak ketiga.
 
-LinkStack mirip dengan Linktree dan menyediakan fitur dan pilihan yang sama seperti platform berbagi tautan komersial lainnya. Yang terpenting, LinkStack berkomitmen untuk tidak pernah menjual data pengguna dan mengutamakan privasi serta otonomi pengguna dalam mengelola dan berbagi tautan online.
+LinkStack mirip dengan Linktree dan menyediakan fitur dan pilihan yang sama seperti platform berbagi link komersial lainnya. Yang terpenting, LinkStack berkomitmen untuk tidak pernah menjual data pengguna dan mengutamakan privasi serta otonomi pengguna dalam mengelola dan berbagi link online.
 
 # Instalasi
 [`^ kembali ke atas ^`](#)
@@ -198,29 +198,31 @@ volumes:
 [`^ kembali ke atas ^`](#)
 
 **LinkStack** adalah sebuah aplikasi yang menyediakan opsi self-hosting yang mudah digunakan tanpa memerlukan pengetahuan teknis yang mendalam. Aplikasi ini juga memiliki berbagai kelebihan, seperti berikut:
-- **Manajemen Tautan yang Efisien:** LinkStack memberikan solusi yang efisien untuk mengelola dan berbagi tautan secara online, memungkinkan pengguna mengatasi batasan hanya dapat menambahkan satu tautan di platform media sosial.
+- **Manajemen link yang Efisien:** LinkStack memberikan solusi yang efisien untuk mengelola dan berbagi link secara online, memungkinkan pengguna mengatasi batasan hanya dapat menambahkan satu link di platform media sosial.
+- **Pilihan Block yang beragam:** Pada LinkStack terdapat block yang sangat banyak, bahkan user dapat membuat dan berbagi Vcard online.
 - **Instansi Gratis untuk Pengguna Awam:** LinkStack menawarkan instansi gratis bagi pengguna yang tidak memiliki keahlian teknis untuk melakukan self-hosting.
-- **Kustomisasi Halaman Profil:** Pengguna dapat dengan mudah membuat halaman profil custom mereka sendiri di LinkStack tanpa biaya tambahan.
+- **Customisasi Halaman Profil:** Pengguna dapat dengan mudah membuat halaman profil custom mereka sendiri di LinkStack tanpa biaya tambahan.
 
 Namun, LinkStack juga memiliki beberapa kekurangan, seperti berikut:
-- **Kompleksitas Self-Hosting:** Meng-host tautan sendiri di server web pribadi atau penyedia hosting web mungkin memerlukan pengetahuan teknis yang lebih, dan proses pengaturan awal bisa lebih rumit.
+- **Kompleksitas Self-Hosting:** Meng-host link sendiri di server web pribadi atau penyedia hosting web mungkin memerlukan pengetahuan teknis yang lebih, dan proses pengaturan awal bisa lebih rumit.
 - **Biaya Tambahan untuk Self-Hosting:** Self-hosting dapat menghasilkan biaya tambahan untuk hosting web, yang mungkin menjadi kendala bagi beberapa pengguna.
-- **Keterbatasan Integrasi:** LinkStack mungkin memiliki integrasi yang lebih terbatas dengan beberapa platform media sosial atau alat dibandingkan dengan Linktree.
+- Satu akun hanya bisa membuat satu **LinkStack**.
 
 Dalam perbandingan dengan Linktree, LinkStack memiliki keunggulan dan kelemahan sebagai berikut:
 - **Linktree** dikenal dengan kesederhanaan penggunaannya, sehingga cocok bagi pengguna yang ingin membuat halaman profil dengan cepat tanpa kerumitan. 
-- **Linktree** memiliki integrasi yang lebih mudah dengan beberapa platform media sosial dan alat lainnya, seperti Instagram, Twitter, dan Facebook, dibandingkan dengan LinkStack.
-- **LinkStack** menonjol dalam hal fleksibilitas karena memungkinkan pengguna untuk meng-host tautan mereka sendiri di server web pribadi atau penyedia hosting web, memberi pengguna lebih banyak kontrol. Sebaliknya, Linktree memiliki keterbatasan dalam hal penyesuaian dan desain halaman profil.
-- Beberapa fitur tambahan Linktree, seperti analitik, penjadwalan tautan, dan opsi desain, hanya tersedia dalam paket berbayar.
+- **LinkStack** menonjol dalam hal fleksibilitas karena memungkinkan pengguna untuk meng-host link mereka sendiri di server web pribadi atau penyedia hosting web, memberi pengguna lebih banyak kontrol. Sebaliknya, Linktree memiliki keterbatasan dalam hal penyesuaian dan desain halaman profil.
+- **Linktree** memiliki integrasi yang lebih mudah dan banyak dengan beberapa platform media sosial dan alat lainnya dibandingkan dengan **LinkStack**.
+- Berbeda dengan **LinkStack** yang gratis, beberapa fitur tambahan Linktree, seperti analitik, penjadwalan link, dan opsi desain, hanya tersedia dalam paket berbayar.
 ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Linktree1.png)
 ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Linktree2.png)
 
 Aplikasi sejenis lainnya adalah **Link List (ipb.link)**.  Perbandingannya adalah sebagai berikut.
 - Tampilan pada ipb.link kurang menarik dibandingkan dengan **LinkStack**
-- Tema pada halamannya juga hanya sedikit dan terbatas. Hal ini berbeda dengan **LinkStack** yang dapat custom halamannya tanpa biaya tambahan.
+  ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/tampilan.png)
+- Tema pada halamannya juga hanya sedikit dan terbatas (tidak bisa custom tema). Hal ini berbeda dengan **LinkStack** yang dapat custom halamannya tanpa biaya tambahan.
+  ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/tema%20ipblink.png)
 - Di luar link tambahan, integrasi ke media sosial langsung hanya terbatas untuk Twitter, Facebook, Instagram, dan Youtube saja.
-![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Ipb1.png)
-![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Ipb2.png)
+  ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/ipblink%20medsos.png)
 
 # Referensi
 - [Azure Cloud](https://azure.microsoft.com/id-id/)
