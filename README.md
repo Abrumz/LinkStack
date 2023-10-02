@@ -63,7 +63,13 @@ docker run --detach \
     --mount source=linkstack,target=/htdocs \
     linkstackorg/linkstack
 ```
-
+5. Setelah semua ketentuan sudah dijalankan, buka aplikasi dan setting awal seperti berikut
+![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Instalansi1.png)
+![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Instalansi2.png)
+![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Instalansi3.png)
+![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Instalansi4.png)
+![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Instalansi5.png)
+   
 # Konfigurasi
 - `SERVER_ADMIN` (the email, defaults to `you@example.com`)
 - `HTTP_SERVER_NAME` (the [server name](https://httpd.apache.org/docs/2.4/fr/mod/core.html#servername), defaults to `localhost`)
