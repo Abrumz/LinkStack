@@ -186,9 +186,13 @@ Dalam perbandingan dengan Linktree, LinkStack memiliki keunggulan dan kelemahan 
 - **Linktree** memiliki integrasi yang lebih mudah dengan beberapa platform media sosial dan alat lainnya, seperti Instagram, Twitter, dan Facebook, dibandingkan dengan LinkStack.
 - **LinkStack** menonjol dalam hal fleksibilitas karena memungkinkan pengguna untuk meng-host tautan mereka sendiri di server web pribadi atau penyedia hosting web, memberi pengguna lebih banyak kontrol. Sebaliknya, Linktree memiliki keterbatasan dalam hal penyesuaian dan desain halaman profil.
 - Beberapa fitur tambahan Linktree, seperti analitik, penjadwalan tautan, dan opsi desain, hanya tersedia dalam paket berbayar.
+![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Linktree1.png)
+![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Linktree2.png)
 
 Aplikasi sejenis lainnya adalah **Linked List (ipb.link)**.  Perbandingannya adalah sebagai berikut.
 - POKOKNYA JLEK
+![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Ipb1.png)
+![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Ipb2.png)
 
 # Referensi
 - [Azure Cloud](https://azure.microsoft.com/id-id/)
