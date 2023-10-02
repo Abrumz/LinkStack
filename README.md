@@ -23,6 +23,12 @@ LinkStack mirip dengan Linktree dan menyediakan fitur dan pilihan yang sama sepe
 - RAM: 64Mb atau lebih tinggi
 - PHP 8.x.x.
 - SQLite
+  
+*Suport System*
+- [`linux/amd64`](https://hub.docker.com/r/linkstackorg/linkstack/tags)
+- [`linux/arm/v6`](https://hub.docker.com/r/linkstackorg/linkstack/tags)
+- [`linux/arm/v7`](https://hub.docker.com/r/linkstackorg/linkstack/tags)
+- [`linux/arm64`](https://hub.docker.com/r/linkstackorg/linkstack/tags)
 
 ### Proses Instalasi :
 #### Docker
@@ -37,10 +43,94 @@ service docker status
 ```
 service docker start
 ```
+3. Langkah selanjutnya pull LinkStack yang akan digunakan
+```
+docker pull linkstackorg/linkstack
+```
+<i>Alternative mirror:</i>
+```
+docker pull ghcr.io/linkstackorg/linkstack
+```
+4. Setelah di pull masuk kedalam proses deploy
+**Create a new volume:**
+<pre>docker volume create linkstack</pre>
+```
+docker run --detach \
+    --name linkstack \
+    --publish 80:80 \
+    --publish 443:443 \
+    --restart unless-stopped \
+    --mount source=linkstack,target=/htdocs \
+    linkstackorg/linkstack
+```
 
 # Konfigurasi
+- `SERVER_ADMIN` (the email, defaults to `you@example.com`)
+- `HTTP_SERVER_NAME` (the [server name](https://httpd.apache.org/docs/2.4/fr/mod/core.html#servername), defaults to `localhost`)
+- `HTTPS_SERVER_NAME` (the [server name](https://httpd.apache.org/docs/2.4/fr/mod/core.html#servername), defaults to `localhost`)
+- `LOG_LEVEL` (the [log level](https://httpd.apache.org/docs/2.4/fr/mod/core.html#loglevel), defaults to `info`)
+- `TZ` (the [timezone](https://www.php.net/manual/timezones.php), defaults to `UTC`)
+- `PHP_MEMORY_LIMIT` (the [memory-limit](https://www.php.net/manual/ini.core.php#ini.memory-limit), defaults to `256M`)
+- `UPLOAD_MAX_FILESIZE` (the [upload_max_filesize](https://www.php.net/manual/en/ini.core.php#ini.upload-max-filesize), defaults to `8M`)
+
+#### Custom deployment
+
+<pre>
+docker run --detach \
+    --name linkstack \
+    --hostname linkstack \
+    --env HTTP_SERVER_NAME="www.example.xyz" \
+    --env HTTPS_SERVER_NAME="www.example.xyz" \
+    --env SERVER_ADMIN="admin@example.xyz" \
+    --env TZ="Europe/Berlin" \
+    --env PHP_MEMORY_LIMIT="512M" \
+    --env UPLOAD_MAX_FILESIZE="16M" \
+    --publish 80:80 \
+    --publish 443:443 \
+    --restart unless-stopped \
+    --mount source=linkstack,target=/htdocs \
+    linkstackorg/linkstack
+</pre>
+
+<br>
+
+#### Docker Compose
+<ins>Use HTTPS for your reverse proxy to avoid issues</ins><br>
+Example config.
+
+<pre>
+version: "3.8"
+
+services:
+
+  linkstack:
+    hostname: 'linkstack'
+    image: 'linkstackorg/linkstack:latest'
+    environment:
+      TZ: 'Europe/Berlin'
+      SERVER_ADMIN: 'admin@example.com'
+      HTTP_SERVER_NAME: 'example.com'
+      HTTPS_SERVER_NAME: 'example.com'
+      LOG_LEVEL: 'info'
+      PHP_MEMORY_LIMIT: '256M'
+      UPLOAD_MAX_FILESIZE: '8M'
+    volumes:
+      - 'linkstack_data:/htdocs'
+    ports:
+      - '8190:443'
+    restart: unless-stopped
+
+volumes:
+  linkstack_data:
+</pre>
+
+<br>
 
 # Maintenance
+- Proses otomatis backup menggunakan bantuan pihak ke tiga yaitu **Microsoft Azure**
+(foto)
+- Backup juga bisa dilakukan secara manual di dalam aplikasi
+- (foto)
 
 # Otomatisasi
 
