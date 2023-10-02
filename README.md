@@ -139,8 +139,6 @@ volumes:
 ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Backup.png)
 ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/ProsesBackup.png)
 
-# Otomatisasi
-
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
 - Tampilan Aplikasi Web
