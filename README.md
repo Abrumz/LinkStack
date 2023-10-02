@@ -7,8 +7,8 @@
   </picture>
 </p>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:|:---:|:---:
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi
+:---:|:---:|:---:|:---:|:---:|:---:
 
 # Sekilas Tentang
 [LinkStack](https://github.com/LinkStackOrg/LinkStack) adalah aplikasi yang bertujuan memberikan solusi manajemen dan berbagi tautan online yang gratis dan berfokus pada privasi. LinkStack memungkinkan pengguna untuk memiliki kontrol penuh atas tautan mereka tanpa harus menjual data pribadi kepada pihak ketiga.
@@ -24,7 +24,7 @@ LinkStack mirip dengan Linktree dan menyediakan fitur dan pilihan yang sama sepe
 - PHP 8.x.x.
 - SQLite
   
-*Suport System*
+*Support System*
 - [`linux/amd64`](https://hub.docker.com/r/linkstackorg/linkstack/tags)
 - [`linux/arm/v6`](https://hub.docker.com/r/linkstackorg/linkstack/tags)
 - [`linux/arm/v7`](https://hub.docker.com/r/linkstackorg/linkstack/tags)
@@ -71,6 +71,8 @@ docker run --detach \
 ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Instalansi5.png)
    
 # Konfigurasi
+[`^ kembali ke atas ^`](#)
+
 - `SERVER_ADMIN` (the email, defaults to `you@example.com`)
 - `HTTP_SERVER_NAME` (the [server name](https://httpd.apache.org/docs/2.4/fr/mod/core.html#servername), defaults to `localhost`)
 - `HTTPS_SERVER_NAME` (the [server name](https://httpd.apache.org/docs/2.4/fr/mod/core.html#servername), defaults to `localhost`)
@@ -80,7 +82,6 @@ docker run --detach \
 - `UPLOAD_MAX_FILESIZE` (the [upload_max_filesize](https://www.php.net/manual/en/ini.core.php#ini.upload-max-filesize), defaults to `8M`)
 
 #### Custom deployment
-
 <pre>
 docker run --detach \
     --name linkstack \
@@ -133,6 +134,8 @@ volumes:
 <br>
 
 # Maintenance
+[`^ kembali ke atas ^`](#)
+
 - Proses otomatis backup menggunakan bantuan pihak ke tiga yaitu **Microsoft Azure**
 ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/BackupAzure.png)
 - Backup juga bisa dilakukan secara manual di dalam aplikasi
@@ -141,6 +144,7 @@ volumes:
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
+
 - Tampilan Aplikasi Web
   Cara pemakaian **LinkStack** sangat mudah dikarenakan aplikasi ini telah menyediakan interface yang mudah dimengerti.
   - Pertama, kita perlu login terlebih dahulu.
@@ -172,7 +176,7 @@ volumes:
 **LinkStack** adalah sebuah aplikasi yang menyediakan opsi self-hosting yang mudah digunakan tanpa memerlukan pengetahuan teknis yang mendalam. Aplikasi ini juga memiliki berbagai kelebihan, seperti berikut:
 - **Manajemen Tautan yang Efisien:** LinkStack memberikan solusi yang efisien untuk mengelola dan berbagi tautan secara online, memungkinkan pengguna mengatasi batasan hanya dapat menambahkan satu tautan di platform media sosial.
 - **Instansi Gratis untuk Pengguna Awam:** LinkStack menawarkan instansi gratis bagi pengguna yang tidak memiliki keahlian teknis untuk melakukan self-hosting.
-- **Kustomisasi Halaman Profil:** Pengguna dapat dengan mudah membuat halaman profil kustom mereka sendiri di LinkStack tanpa biaya tambahan.
+- **Kustomisasi Halaman Profil:** Pengguna dapat dengan mudah membuat halaman profil custom mereka sendiri di LinkStack tanpa biaya tambahan.
 
 Namun, LinkStack juga memiliki beberapa kekurangan, seperti berikut:
 - **Kompleksitas Self-Hosting:** Meng-host tautan sendiri di server web pribadi atau penyedia hosting web mungkin memerlukan pengetahuan teknis yang lebih, dan proses pengaturan awal bisa lebih rumit.
@@ -187,8 +191,10 @@ Dalam perbandingan dengan Linktree, LinkStack memiliki keunggulan dan kelemahan 
 ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Linktree1.png)
 ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Linktree2.png)
 
-Aplikasi sejenis lainnya adalah **Linked List (ipb.link)**.  Perbandingannya adalah sebagai berikut.
-- POKOKNYA JLEK
+Aplikasi sejenis lainnya adalah **Link List (ipb.link)**.  Perbandingannya adalah sebagai berikut.
+- Tampilan pada ipb.link kurang menarik dibandingkan dengan **LinkStack**
+- Tema pada halamannya juga hanya sedikit dan terbatas. Hal ini berbeda dengan **LinkStack** yang dapat custom halamannya tanpa biaya tambahan.
+- Di luar link tambahan, integrasi ke media sosial langsung hanya terbatas untuk Twitter, Facebook, Instagram, dan Youtube saja.
 ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Ipb1.png)
 ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Ipb2.png)
 
@@ -197,6 +203,6 @@ Aplikasi sejenis lainnya adalah **Linked List (ipb.link)**.  Perbandingannya ada
 - [Docker](https://www.docker.com/)
 - [Docker Compose](https://docs.docker.com/compose/)
 - [Linktree](https://linktr.ee/)
-- [Linked List (ipb.link)](https://ipb.link/)
+- [Link List (ipb.link)](https://ipb.link/)
 
 [`^ kembali ke atas ^`](#)
