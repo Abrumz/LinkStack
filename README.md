@@ -163,6 +163,7 @@ GOOGLE_CLIENT_ID=123456789
 GOOGLE_CLIENT_SECRET=abcdef1234567890
 GOOGLE_CALLBACK_URL=https://example.com/social-auth/google/callback
 ```
+-Berikut contoh config di dalam aplikasi (key sudah disamarkan)
 ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/ConfigLogin1.png)
 
 # Cara Pemakaian
