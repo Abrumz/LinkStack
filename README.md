@@ -147,34 +147,51 @@ volumes:
 
 - Tampilan Aplikasi Web
   Cara pemakaian **LinkStack** sangat mudah dikarenakan aplikasi ini telah menyediakan interface yang mudah dimengerti.
-  - Pertama, kita perlu login terlebih dahulu.
+  - Pertama, user perlu login terlebih dahulu.
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20165456.png)
-  - Jika belum memiliki akun, maka kita perlu melakukan pendaftaran (Sign Up) terlebih dahulu.
+  - Jika belum memiliki akun, maka user perlu melakukan pendaftaran (Sign Up) terlebih dahulu.
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20165624.png)
   
   **ADMIN**
-  - Setelah login, kita akan masuk ke halaman Dashboard. Disini kita dapat melihat laporan site statistics, registrations, dan active users
+  - Setelah login, admin akan masuk ke halaman Dashboard. Disini admin dapat melihat laporan site statistics, registrations, dan active admin
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20172344.png)
-  - Pada menu Add Link, kita dapat menambahkan link dan custom nama linknya sesuai dengan keinginan. Setelah itu, dapat menambahkan link lainnya dengan klik save and add more.
+  - Pada menu Add Link, admin dapat menambahkan link dan custom nama linknya sesuai dengan keinginan. Setelah itu, dapat menambahkan link lainnya dengan klik save and add more. Pada menu ini terdapat Select Block dimana jenis link dapat dipilih sesuai dengan kebutuhan. Bahkan selain link, admin juga dapat menambahkan Vcard.
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20172509.png)
-  - Pada menu Admin - Config, admin dapat mengkonfigurasi kembali.
-    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/admin-page-config.png)
-  - Pada menu Admin - Manage User, admin dapat menambahkan pengguna baru, serta menghapus atau mengedit pengguna yang sudah ada.
-    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20185939.png)
-  - Pada menu Admin - Footer Pages, admin dapat menyunting footer pages sesuai kebutuhan.
-    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/admin-page-footer.png)
-  - Pada menu Admin - Site Customization, admin dapat mengkostumisasi tampilan website.
-    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/admin-page-custom.png)
-  - Kemudian, pada halaman berikut ini, kita dapat melihat (preview) link yang sudah dibuat.
+  - Pada menu Admin terdapat beberapa fitur
+    1. Config, dapat digunakan untuk konfigurasi dan backup secara manual
+       ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/admin-page-config.png)
+    3. Manage User, admin dapat menambahkan pengguna baru, serta menghapus atau mengedit pengguna yang sudah ada.
+       ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20185939.png)
+    4. Footer Pages, digunakan untuk menyunting footer pages sesuai kebutuhan.
+       ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/admin-page-footer.png)
+    6. Site Customization, digunakan untuk mengubah atau mengcustom tampilan website sehingga terlihat lebih menarik.
+       ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/admin-page-custom.png)
+  - Pada menu Links, admin dapat melihat seluruh link yang sudah dibuat
+    ![alt text]()
+  - Pada menu Links juga, admin dapat menambahkan Page Icons untuk berintegrasi ke media sosial
+    ![alt text]()
+  - Pada menu Appearance, admin dapat mengatur halaman profile seperti profile picture, display name, dan lain-lain.
+    ![alt text]()
+  - Pada menu Themes, admin dapat mengubah atau mengcustom tema sendiri untuk halaman profile.
+    ![alt text]()
+  - Kemudian, admin juga dapat melihat preview kumpulan link yang sudah dibuat.
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20172701.png)
 
   **USER**
-  - Setelah login, kita akan masuk ke halaman Dashboard. Disini kita dapat melihat laporan total links dan link click-Nya.
-    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20175743.png)
-  - Pada menu Add Link, kita dapat menambahkan link dan custom nama linknya sesuai dengan keinginan. Setelah itu, dapat menambahkan link lainnya dengan klik save and add more.
-    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20175537.png)
-  - Kemudian, pada halaman berikut ini, kita dapat melihat (preview) link yang sudah dibuat.
-    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20175850.png)
+  - Setelah login, user akan masuk ke halaman Dashboard. Disini user dapat melihat laporan total links dan link click-Nya.
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Dashboard User.png)
+  - Pada menu Add Link, user dapat menambahkan link dan custom nama linknya sesuai dengan keinginan. Setelah itu, dapat menambahkan link lainnya dengan klik save and add more. Pada menu ini terdapat Select Block dimana jenis link dapat dipilih sesuai dengan kebutuhan. Bahkan selain link, user juga dapat menambahkan Vcard.
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Select Block (add link user).png)
+  - Pada menu Links, user dapat melihat seluruh link yang sudah dibuat
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Kumpulan Link yang sudah dibuat.png)
+  - Pada menu Links juga, user dapat menambahkan Page Icons untuk berintegrasi ke media sosial
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Page Icons (medsos).png)
+  - Pada menu Appearance, user dapat mengatur halaman profile seperti profile picture, display name, dan lain-lain.
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Appearance User.png)
+  - Pada menu Themes, user dapat mengubah atau mengcustom tema sendiri untuk halaman profile.
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Themes User.png)
+  - Kemudian, user juga dapat melihat preview kumpulan link yang sudah dibuat.
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Preview User.png)
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
