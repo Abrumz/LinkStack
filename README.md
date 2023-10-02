@@ -142,6 +142,29 @@ volumes:
 ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Backup.png)
 ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/ProsesBackup.png)
 
+**Plugin**
+![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Login1.png)
+![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Login2.png)
+![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Login3.png)
+![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Login4.png)
+Salah satu plugin yang digunakan yaitu **Laravel Socialite** , sebagai contoh menggunakan Google OAuth 2.0 Client IDs
+
+- Use the ID, secret and callback URL for the next step. You will have to add three new entries to your config per platform you want to add in the format:
+
+```
+PLATFORM_CLIENT_ID
+PLATFORM_CLIENT_SECRET
+PLATFORM_CALLBACK_URL
+```
+
+- For Google, this would be:
+```
+GOOGLE_CLIENT_ID=123456789
+GOOGLE_CLIENT_SECRET=abcdef1234567890
+GOOGLE_CALLBACK_URL=https://example.com/social-auth/google/callback
+```
+![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/ConfigLogin1.png)
+
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
 
