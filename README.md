@@ -7,8 +7,8 @@
   </picture>
 </p>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi
-:---:|:---:|:---:|:---:|:---:|:---:
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Maintenance](#maintenance) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 # Sekilas Tentang
 [LinkStack](https://github.com/LinkStackOrg/LinkStack) adalah aplikasi yang bertujuan memberikan solusi manajemen dan berbagi tautan online yang gratis dan berfokus pada privasi. LinkStack memungkinkan pengguna untuk memiliki kontrol penuh atas tautan mereka tanpa harus menjual data pribadi kepada pihak ketiga.
