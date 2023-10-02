@@ -11,9 +11,9 @@
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 # Sekilas Tentang
-[LinkStack](https://github.com/LinkStackOrg/LinkStack) adalah aplikasi yang bertujuan memberikan solusi manajemen dan berbagi link online yang gratis dan berfokus pada privasi. LinkStack memungkinkan pengguna untuk memiliki kontrol penuh atas link mereka tanpa harus menjual data pribadi kepada pihak ketiga.
+[LinkStack](https://github.com/LinkStackOrg/LinkStack) adalah aplikasi yang bertujuan memberikan solusi manajemen dan berbagi link online yang gratis dan berfokus pada privasi. **LinkStack** memungkinkan pengguna untuk memiliki kontrol penuh atas link mereka tanpa harus menjual data pribadi kepada pihak ketiga.
 
-LinkStack mirip dengan Linktree dan menyediakan fitur dan pilihan yang sama seperti platform berbagi link komersial lainnya. Yang terpenting, LinkStack berkomitmen untuk tidak pernah menjual data pengguna dan mengutamakan privasi serta otonomi pengguna dalam mengelola dan berbagi link online.
+**LinkStack** mirip dengan **Linktree** dan menyediakan fitur dan pilihan yang sama seperti platform berbagi link komersial lainnya. Yang terpenting, **LinkStack** berkomitmen untuk tidak pernah menjual data pengguna dan mengutamakan privasi serta otonomi pengguna dalam mengelola dan berbagi link online.
 
 # Instalasi
 [`^ kembali ke atas ^`](#)
@@ -198,21 +198,21 @@ volumes:
 [`^ kembali ke atas ^`](#)
 
 **LinkStack** adalah sebuah aplikasi yang menyediakan opsi self-hosting yang mudah digunakan tanpa memerlukan pengetahuan teknis yang mendalam. Aplikasi ini juga memiliki berbagai kelebihan, seperti berikut:
-- **Manajemen link yang Efisien:** LinkStack memberikan solusi yang efisien untuk mengelola dan berbagi link secara online, memungkinkan pengguna mengatasi batasan hanya dapat menambahkan satu link di platform media sosial.
-- **Pilihan Block yang beragam:** Pada LinkStack terdapat block yang sangat banyak, bahkan user dapat membuat dan berbagi Vcard online.
-- **Instansi Gratis untuk Pengguna Awam:** LinkStack menawarkan instansi gratis bagi pengguna yang tidak memiliki keahlian teknis untuk melakukan self-hosting.
-- **Customisasi Halaman Profil:** Pengguna dapat dengan mudah membuat halaman profil custom mereka sendiri di LinkStack tanpa biaya tambahan.
+- **Manajemen link yang Efisien:** **LinkStack** memberikan solusi yang efisien untuk mengelola dan berbagi link secara online, memungkinkan pengguna mengatasi batasan hanya dapat menambahkan satu link di platform media sosial.
+- **Pilihan Block yang beragam:** Pada **LinkStack** terdapat block yang sangat banyak, bahkan user dapat membuat dan berbagi Vcard online.
+- **Instansi Gratis untuk Pengguna Awam:** **LinkStack** menawarkan instansi gratis bagi pengguna yang tidak memiliki keahlian teknis untuk melakukan self-hosting.
+- **Customisasi Halaman Profil:** Pengguna dapat dengan mudah membuat halaman profil custom mereka sendiri di **LinkStack** tanpa biaya tambahan.
 
-Namun, LinkStack juga memiliki beberapa kekurangan, seperti berikut:
+Namun, **LinkStack** juga memiliki beberapa kekurangan, seperti berikut:
 - **Kompleksitas Self-Hosting:** Meng-host link sendiri di server web pribadi atau penyedia hosting web mungkin memerlukan pengetahuan teknis yang lebih, dan proses pengaturan awal bisa lebih rumit.
 - **Biaya Tambahan untuk Self-Hosting:** Self-hosting dapat menghasilkan biaya tambahan untuk hosting web, yang mungkin menjadi kendala bagi beberapa pengguna.
 - Satu akun hanya bisa membuat satu **LinkStack**.
 
-Dalam perbandingan dengan Linktree, LinkStack memiliki keunggulan dan kelemahan sebagai berikut:
+Dalam perbandingan dengan **Linktree**, **LinkStack** memiliki keunggulan dan kelemahan sebagai berikut:
 - **Linktree** dikenal dengan kesederhanaan penggunaannya, sehingga cocok bagi pengguna yang ingin membuat halaman profil dengan cepat tanpa kerumitan. 
-- **LinkStack** menonjol dalam hal fleksibilitas karena memungkinkan pengguna untuk meng-host link mereka sendiri di server web pribadi atau penyedia hosting web, memberi pengguna lebih banyak kontrol. Sebaliknya, Linktree memiliki keterbatasan dalam hal penyesuaian dan desain halaman profil.
+- **LinkStack** menonjol dalam hal fleksibilitas karena memungkinkan pengguna untuk meng-host link mereka sendiri di server web pribadi atau penyedia hosting web, memberi pengguna lebih banyak kontrol. Sebaliknya, **Linktree** memiliki keterbatasan dalam hal penyesuaian dan desain halaman profil.
 - **Linktree** memiliki integrasi yang lebih mudah dan banyak dengan beberapa platform media sosial dan alat lainnya dibandingkan dengan **LinkStack**.
-- Berbeda dengan **LinkStack** yang gratis, beberapa fitur tambahan Linktree, seperti analitik, penjadwalan link, dan opsi desain, hanya tersedia dalam paket berbayar.
+- Berbeda dengan **LinkStack** yang gratis, beberapa fitur tambahan **Linktree**, seperti analitik, penjadwalan link, dan opsi desain, hanya tersedia dalam paket berbayar.
 ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Linktree1.png)
 ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Linktree2.png)
 
