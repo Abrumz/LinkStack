@@ -128,9 +128,10 @@ volumes:
 
 # Maintenance
 - Proses otomatis backup menggunakan bantuan pihak ke tiga yaitu **Microsoft Azure**
-(foto)
+![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/BackupAzure.png)
 - Backup juga bisa dilakukan secara manual di dalam aplikasi
-- (foto)
+![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Backup.png)
+![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/ProsesBackup.png)
 
 # Otomatisasi
 
