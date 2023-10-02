@@ -192,13 +192,13 @@ GOOGLE_CALLBACK_URL=https://example.com/social-auth/google/callback
     6. Site Customization, digunakan untuk mengubah atau mengcustom tampilan website sehingga terlihat lebih menarik.
        ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/admin-page-custom.png)
   - Pada menu Links, admin dapat melihat seluruh link yang sudah dibuat
-    ![alt text]()
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/admin-page-link1.png)
   - Pada menu Links juga, admin dapat menambahkan Page Icons untuk berintegrasi ke media sosial
-    ![alt text]()
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/admin-page-link2.png)
   - Pada menu Appearance, admin dapat mengatur halaman profile seperti profile picture, display name, dan lain-lain.
-    ![alt text]()
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/admin-page-app.png)
   - Pada menu Themes, admin dapat mengubah atau mengcustom tema sendiri untuk halaman profile.
-    ![alt text]()
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/admin-page-theme.png)
   - Kemudian, admin juga dapat melihat preview kumpulan link yang sudah dibuat.
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20172701.png)
 
