@@ -161,6 +161,10 @@ volumes:
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/admin-page-config.png)
   - Pada menu Admin - Manage User, admin dapat menambahkan pengguna baru, serta menghapus atau mengedit pengguna yang sudah ada.
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20185939.png)
+  - Pada menu Admin - Footer Pages, admin dapat menyunting footer pages sesuai kebutuhan.
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/admin-page-footer.png)
+  - Pada menu Admin - Site Customization, admin dapat mengkostumisasi tampilan website.
+    ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/admin-page-custom.png)
   - Kemudian, pada halaman berikut ini, kita dapat melihat (preview) link yang sudah dibuat.
     ![alt text](https://github.com/Abrumz/LinkStack/blob/main/folder/Screenshot%202023-10-01%20172701.png)
 
